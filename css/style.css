@@ -1,0 +1,33 @@
+body {
+    background-color: #a6a8a8;
+}
+
+ul {
+    font-size: 200%;
+    font-style: normal;
+}
+
+ul ul {
+    font-size: 90%;
+}
+
+ul ul ul {
+    font-size: 85%;
+
+    font-style: italic;
+}
+
+ol {
+    font-size: 200%;
+    font-style: italic;
+}
+
+ol ol {
+    font-size: 90%;
+}
+
+ol ol ol {
+    font-size: 85%;
+
+    font-style: italic;
+}

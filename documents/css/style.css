@@ -1,0 +1,42 @@
+body {
+    background-color: #a6a8a8;
+}
+
+ol {
+    font-size: 200%;
+    font-style: italic;
+}
+
+ol ol {
+    font-size: 90%;
+
+}
+
+ol ol ol {
+    font-size: 85%;
+
+
+}
+
+ul {
+    font-size: 200%;
+    font-style: normal;
+}
+
+ul ul {
+    font-size: 90%;
+    font-style: italic;
+}
+
+ul ul ul {
+    font-size: 85%;
+}
+img {
+    float: left;
+    margin-right: 10px;
+}
+p {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
